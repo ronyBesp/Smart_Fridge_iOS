@@ -1,4 +1,4 @@
-# SmartFridge_iOS
+# Smart_Fridge_iOS
 The iOS app of the Smart Fridge Project.
 
 This will serve the users as users will use the iOS app to interact with the system.
@@ -26,3 +26,4 @@ is needed - simply run it in Xcode.
 
 To get it working with a local server, everywhere where the server URL is used within the app must be changed to
 point to the local server you would like to use.
+
