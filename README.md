@@ -7,9 +7,9 @@ The iOS App integrates and connects to the Server to retrieve results using a GE
 
 The other related repository locations are:
 
-**Server**: 
+**Server**: https://github.com/ronyBesp/Smart_Fridge_Server
 
-**Pi**:
+**Pi**: https://github.com/ronyBesp/Smart_Fridge_Pi
 
 
 ## Features
